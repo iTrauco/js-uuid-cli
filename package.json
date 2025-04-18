@@ -1,0 +1,25 @@
+{
+  "name": "uuid-cli",
+  "version": "1.0.0",
+  "description": "CLI tool for adding UUIDs to JavaScript files",
+  "main": "index.js",
+  "bin": {
+    "uuid-cli": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "uuid",
+    "cli",
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
